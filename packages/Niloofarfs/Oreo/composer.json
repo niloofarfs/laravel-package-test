@@ -20,7 +20,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Niloofarfs\\Oreo\\": "src/"
+            "Niloofarfs\\Oreo\\": "src/",
+            "Niloofarfs\\Oreo\\Database\\Factories\\": "database/factories/"
         }
     },
     "autoload-dev": {
